@@ -1,11 +1,12 @@
-#### Basic Project
+#### Interface Project
 
-### March 26, 2016
+### March 31, 2016
 
-A Basic Structure for Maven Projects
+Project which uses interfaces
 
 * Git
 * Java 7
 * Maven
+* Interfaces
 
 [Jean-francois Nepton](http://sqasolution.com)
